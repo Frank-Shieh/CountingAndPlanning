@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.race604.flyrefresh.sample" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:launchMode="standard" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.race604.flyfresh.counting.CountingSettings"
+            android:label="@string/title_activity_counting_settings"
+            android:launchMode="standard" >
+        </activity>
+        <activity
+            android:name="com.race604.flyfresh.counting.CountingShow"
+            android:label="@string/title_activity_counting_show" >
+        </activity>
+        <activity
+            android:name="com.race604.flyfresh.counting.CountingEdit"
+            android:label="@string/title_activity_counting_edit" >
+        </activity>
+        <activity
+            android:name="com.race604.planning.PlanningSettings"
+            android:label="@string/title_activity_planning_settings" >
+        </activity>
+        <activity
+            android:name="com.race604.planning.PlanningEdit"
+            android:label="@string/title_activity_planning_edit" >
+        </activity>
+        <activity
+            android:name="com.race604.planning.PlanningShow"
+            android:label="@string/title_activity_planning_show" >
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\FRANK_SHIEH\Desktop\FlyRefresh-master\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="C:\Users\FRANK_SHIEH\Desktop\FlyRefresh-master\app\build\intermediates\pre-dexed\debug\classes-e3e724e71c08c73de25de82ec81e056e470a9c65.jar" />
+    </item>
+    <item
+        jar="C:\Users\FRANK_SHIEH\Desktop\FlyRefresh-master\app\build\intermediates\exploded-aar\jp.wasabeef\recyclerview-animators\1.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="55b967d31b15d92052a5ea2e407378b72d4764a7">
+        <dex dex="C:\Users\FRANK_SHIEH\Desktop\FlyRefresh-master\app\build\intermediates\pre-dexed\debug\classes-9cf734ade5e5080dedeff0bddcee56be7b37e12f.jar" />
+    </item>
+    <item
+        jar="C:\Users\FRANK_SHIEH\Desktop\FlyRefresh-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="C:\Users\FRANK_SHIEH\Desktop\FlyRefresh-master\app\build\intermediates\pre-dexed\debug\classes-4a207f417cf0de17cdc807add8b7ff1fe2675fa8.jar" />
+    </item>
+    <item
+        jar="D:\Android\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\FRANK_SHIEH\Desktop\FlyRefresh-master\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-c85aff8a312d9194e0eac93c5f4fda776659ced8.jar" />
+    </item>
+    <item
+        jar="C:\Users\FRANK_SHIEH\Desktop\FlyRefresh-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\FRANK_SHIEH\Desktop\FlyRefresh-master\app\build\intermediates\pre-dexed\debug\classes-c9c180fc22a699d0520268a2ef26486998599528.jar" />
+    </item>
+    <item
+        jar="C:\Users\FRANK_SHIEH\Desktop\FlyRefresh-master\app\build\intermediates\exploded-aar\com.race604.flyrefresh\library\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4652c1f0a032abddf452b96ddb0bb2ff9a7ee5d2">
+        <dex dex="C:\Users\FRANK_SHIEH\Desktop\FlyRefresh-master\app\build\intermediates\pre-dexed\debug\classes-c93740146d98c389bbbcf9c3a296d2b4a7a45f91.jar" />
+    </item>
+    <item
+        jar="C:\Users\FRANK_SHIEH\Desktop\FlyRefresh-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\FRANK_SHIEH\Desktop\FlyRefresh-master\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-05bd398745b90ea4060dd327c0c4d9a7b1e07daf.jar" />
+    </item>
+    <item
+        jar="C:\Users\FRANK_SHIEH\Desktop\FlyRefresh-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\FRANK_SHIEH\Desktop\FlyRefresh-master\app\build\intermediates\pre-dexed\debug\classes-6978fa23ec9b6627f431103867f1c3f4de3408fa.jar" />
+    </item>
+
+</items>

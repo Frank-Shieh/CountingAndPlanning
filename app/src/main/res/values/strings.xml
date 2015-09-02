@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FlyRefresh</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="action_counting">记一账</string>
+    <string name="action_planning">新建计划</string>
+    <string name="title_activity_counting_settings">CountingSettings</string>
+    <string name="title_activity_counting_show">CountingShow</string>
+    <string name="title_activity_counting_edit">CountingEdit</string>
+    <string name="title_activity_planning_edit">PlanningEdit</string>
+    <string name="title_activity_planning_settings">PlanningSettings</string>
+    <string name="title_activity_planning_show">PlanningShow</string>
+</resources>
